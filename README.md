@@ -3,11 +3,15 @@
 ## Full Stack Developer |
 
 ### Reach out to me 
+[twitter]: https://twitter.com/volkantepelii
+[linkedin]: https://tr.linkedin.com/
+[stackoverflow]: https://stackoverflow.com/
+[fiverr]: https://www.fiverr.com/xoxsoft
 
-[<img width="22" src="https://unpkg.com/simple-icons@v6/icons/[twitter].svg" align="left" />][twitter]
-[<img width="22" src="https://unpkg.com/simple-icons@v6/icons/[linkedin].svg" align="left" />][linkedin]
-[<img width="22" src="https://unpkg.com/simple-icons@v6/icons/[stackoverflow].svg" align="left" />][stackoverflow]
-[<img width="22" src="https://unpkg.com/simple-icons@v6/icons/[fiverr].svg" align="left" />][fiverr]
+[<img width="22" src="https://unpkg.com/simple-icons@v6/icons/twitter.svg" align="left" />][twitter]
+[<img width="22" src="https://unpkg.com/simple-icons@v6/icons/linkedin.svg" align="left" />][linkedin]
+[<img width="22" src="https://unpkg.com/simple-icons@v6/icons/stackoverflow.svg" align="left" />][stackoverflow]
+[<img width="22" src="https://unpkg.com/simple-icons@v6/icons/fiverr.svg" align="left" />][fiverr]
 
 <br />
 <br />
@@ -31,8 +35,6 @@
 <br />
 <br />
 
-
-
 <details>
 <sumary>:bulb: Github Stats </sumary>
 <img src="https://github-readme-stats.vercel.app/api?username=volkantepeli&theme=tokyonight" >
@@ -47,7 +49,4 @@
 
 
 
-[twitter]: https://twitter.com/volkantepelii
-[linkedin]: https://tr.linkedin.com/
-[stackoverflow]: https://stackoverflow.com/
-[fiverr]: https://www.fiverr.com/xoxsoft
+
