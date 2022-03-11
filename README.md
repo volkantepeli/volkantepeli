@@ -1,6 +1,6 @@
 ### Hi there,
 
-## Full-Stack Web Developer |
+## Software Developer |
 
 ### Reach out to me 
 [twitter]: https://twitter.com/volkantepelii
@@ -22,7 +22,7 @@
 
 #### Programming Languages & Ecosystems
 
-<img align="left" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" width="30" height="30" />
+
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="30" height="30" />
 <img align="left" src="https://raw.githubusercontent.com/github/explore/93d8a67084f94b2a444e510199a6e7622e5b09a3/topics/python/python.png" width="30" height="30" />
 <img align="left" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" width="30" height="30" />
@@ -41,8 +41,15 @@
 
 #### Backend Development
 
-<img align="left" src="https://spring.io/icon_144x144.png" width="30" height="30" />
-<img align="left" src="https://nodejs.org/static/images/logo.svg" width="30" height="30" />
+
+<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="30" height="30" />
+
+<br />
+<br />
+
+#### Mobile Development
+
+<img align="left" src="https://d33wubrfki0l68.cloudfront.net/554c3b0e09cf167f0281fda839a5433f2040b349/ecfc9/img/header_logo.svg" width="30" height="30" />
 
 <br />
 <br />
