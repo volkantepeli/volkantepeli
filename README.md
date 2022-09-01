@@ -30,7 +30,7 @@
 
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="30" height="30" />
 
-<img align="left" src="https://seeklogo.com/images/M/material-ui-logo-5BDCB9BA8F-seeklogo.com.png" width="25" height="25" />
+
 
 <br />
 <br />
